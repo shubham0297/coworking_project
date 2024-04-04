@@ -14,6 +14,6 @@ The Coworking Space Service is a set of APIs that enables users to request one-t
 
 
 ### Steps to release new builds
-1. Clone the project repository and make the modifications for next release (for example changing the application code a bit)
+1. Clone the project repository and make the modifications for next release (for example changing the application code a bit).
 2. Commit the changes to the Github account.  
 3. CodeBuild will detect the change in the source code and automatically build and push the image to ECR. 
